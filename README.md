@@ -1,9 +1,13 @@
 # 💫About Me :
 
 🔭 I’m currently working to earn my **Master’s in Computer Science** while diving deep into the world of AI and machine learning!  
+
 👯 I’m eager to collaborate on **cutting-edge AI research, deep learning innovations, and building scalable machine learning solutions that make a real impact.**  
+
 🤝 Always open to learning! Looking for insights on **optimizing large-scale data processing, fine-tuning real-time AI inference, and making ML models more efficient.**  
+
 🌱 Currently exploring the fascinating realms of **LLMs, reinforcement learning, and next-gen model evaluation techniques.**  
+
 💬 Ask me anything about **computer vision, machine learning, big data analytics, and how AI can automate complex tasks (or even take over the world… just kidding! 😆)**  
 
 
