@@ -8,7 +8,7 @@
 
  Currently exploring the fascinating realms of **LLMs, reinforcement learning, and next-gen model evaluation techniques.**  
 
- Ask me anything about **computer vision, machine learning, big data analytics, and how AI can automate complex tasks **  
+ Ask me anything about **computer vision, machine learning, big data analytics, and how AI can automate complex tasks.**  
 
 
 
