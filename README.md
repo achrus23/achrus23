@@ -1,15 +1,31 @@
 # About Me :
 
- I’m currently working to earn my **Master’s in Computer Science** while diving deep into the world of AI and machine learning!  
+Hi there, I'm Arpit Chandrakar
 
- I’m eager to collaborate on **cutting-edge AI research, deep learning innovations, and building scalable machine learning solutions that make a real impact.**  
+I’m currently pursuing my **Master’s in Computer Science** at Arizona State University while diving deep into the world of AI and machine learning!
 
- Always open to learning! Looking for insights on **optimizing large-scale data processing, fine-tuning real-time AI inference, and making ML models more efficient.**  
+I’m eager to collaborate on **cutting-edge AI research**, **deep learning innovations**, and **scalable machine learning solutions** that deliver real-world impact.
 
- Currently exploring the fascinating realms of **LLMs, reinforcement learning, and next-gen model evaluation techniques.**  
+Always open to learning! I’m exploring:
+- **Large-scale data processing optimization**
+- **Real-time AI inference fine-tuning**
+- **Efficient and explainable ML model development**
 
- Ask me anything about **computer vision, machine learning, big data analytics, and how AI can automate complex tasks.**  
+Currently focused on:
+- **Adversarial robustness** and **satellite image analysis**
+- **Knowledge graph-enhanced retrieval-augmented generation (RAG)**
+- **LLMs, reinforcement learning**, and **API-level performance tuning**
 
+Actively working with:
+- **PySpark**, **Hadoop**, **Kafka** for data pipelines
+- **SQL**, **Python**, **Power BI** for analytics and visualization
+- **t-SNE**, **PCA**, and heatmaps for deep model insights
+
+Ask me anything about:
+- **Computer Vision**, **Machine Learning**, **Big Data Analytics**
+- How **AI can automate and scale complex tasks**
+
+Feel free to connect or collaborate on exciting projects! 
 
 
 ## Socials
